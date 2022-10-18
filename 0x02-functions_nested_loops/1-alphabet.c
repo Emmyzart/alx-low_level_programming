@@ -1,10 +1,10 @@
 #include "main.h"
 /**
- * main - entry point of the program
+ * print_alphabet- entry point of the program
  *
- * Return: 0
+ * Return: 1
  */
-int main(void)
+void print_alphabet(void)
 {
 	char c;
 
@@ -15,5 +15,4 @@ int main(void)
 	c++;
 
 	_putchar('\n');
-	return (0);
 }

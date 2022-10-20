@@ -6,15 +6,15 @@
  * Return: end
  */
 
-int main(void)
+int _isupper(int c)
 {
-	char c;
+	char uppercase;
 
-	if (c == 'A')
+	if (uppercase == 'A')
 	{
 	return (1);
 		}
-		if (c == 'a')
+		if (uppercase == 'a')
 		{
 		return (0);
 		}

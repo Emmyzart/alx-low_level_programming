@@ -1,7 +1,7 @@
 #include "main.h"
 #include <string.h>
 
-/** 
+/**
 * _memset -> this memory set function
 * @s: a string
 * @b: a character
@@ -13,7 +13,7 @@ char *_memset(char *s, char b, unsigned int n)
 unsigned int c;
 
 for (c = 0; c < n; c++)
-s[a] = b;
+s[c] = b;
 
 return (s);
 }

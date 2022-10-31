@@ -20,3 +20,10 @@ if (accept[a] == s[b])
 {
 t++;
 }
+
+b++;
+}
+a++;
+}
+return(t);
+}

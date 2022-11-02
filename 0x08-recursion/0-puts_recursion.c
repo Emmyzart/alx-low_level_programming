@@ -2,7 +2,8 @@
 
 /**
  * _puts_recursion - entry point
- * @s: string
+ * @s:
+ * string
  * Return: none
  */
 
